@@ -1,0 +1,5 @@
+# dd names of files or dir that you want
+
+*.txt
+test1.class
+*.php
